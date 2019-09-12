@@ -14,7 +14,7 @@ int main (){
 		
 	switch(menu){
 	
-			//faÁa um programa que le um numero e diga se ele È par ou impar
+			//fa√ßa um programa que le um numero e diga se ele √© par ou impar
 			case 1:
 				printf("Programa para saber Par ou Impar.\n");
 				printf("Digite um numero inteiro:\n");
@@ -75,7 +75,7 @@ int main (){
 				break;
 				
 				
-				//so um programa para saber a media ponderada
+				// para saber a media ponderada
 			case 5:
 				printf("Programa para saber a media ponderada\n");
 				float prova1, prova2, prova3, mediap;
@@ -98,7 +98,7 @@ int main (){
 				break;
 				
 				
-				//programa que calcula a media e ainda informa se algum numero digitado foi invalido
+				//programa que calcula a media informa se algum numero digitado foi invalido
 			case 6:
 				
 				
@@ -123,7 +123,7 @@ int main (){
 			case 7:
 				printf("Vazio\n");
 				break;
-				//Aqui n„o a nada
+				//Aqui n√£o a nada
 			case 8:
 				printf("Vazio\n");
 				break;
